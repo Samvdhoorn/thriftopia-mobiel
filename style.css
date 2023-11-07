@@ -28,12 +28,12 @@ img {
 h1 {
     font-size: 1em;
     padding: 0.5em;
-    font-family: montserrat;
+    font-family: montserrat, sans-serif, arial;
     font-weight: 700;
 }
 
 body {
-    font-family: montserrat;
+    font-family: montserrat, sans-serif, arial;
     font-weight: 300;
     color: white;
     background-color: #AEC2A9;
@@ -63,7 +63,7 @@ main {
 
 h1 {
     color: #154028;
-    font-family: montserrat;
+    font-family: montserrat, sans-serif, arial;
     font-weight: 700;
     font-size: 1.75em;
 }
@@ -142,7 +142,7 @@ body {
 
 h3 {
     color: white;
-    font-family: montserrat;
+    font-family: montserrat, sans-serif, arial;
     font-weight: 700;
     font-size: 1.5em;
     margin-right: 1em;
@@ -157,46 +157,46 @@ h3 {
 }
 
 .milieu-body article:nth-child(2) p:nth-of-type(2) {
-    color: #F28B0C;
-    background-color: #dfdad7;
-    padding: 0.75em;
+    color: white;
+    background-color: #F28B0C;
+    padding: 0.5em;
     text-align: center;
 }
 
 
 .milieu-body article:nth-child(2) p:nth-of-type(3) {
-    color: #154028;
-    background-color: #dfdad7;
-    padding: 0.75em;
+    color: white;
+    background-color: #154028;
+    padding: 0.5em;
     text-align: center;
 }
 
 .milieu-body article:nth-child(2) p:nth-of-type(4) {
-    color: #AEC2A9;
-    background-color: #dfdad7;
-    padding: 0.75em;
+    color: white;
+    background-color: black;
+    padding: 0.5em;
     text-align: center;
 }
 
 .milieu-body article:nth-child(2) p:nth-of-type(7) {
-    color: #58A633;
-    background-color: #dfdad7;
-    padding: 0.75em;
+    color: white;
+    background-color: #58A633;
+    padding: 0.5em;
     text-align: center;
 }
 
 .milieu-body article:nth-child(2) p:nth-of-type(8) {
-    color: #3384C5;
-    background-color: #dfdad7;
-    padding: 0.75em;
+    color: white;
+    background-color: #3384C5;
+    padding: 0.5em;
     text-align: center;
     margin-bottom: 0em;
 }
 
 .milieu-body article:nth-child(2) p:nth-of-type(10) {
-    color: #BF1B1B;
-    background-color: #dfdad7;
-    padding: 0.75em;
+    color: white;
+    background-color: #BF1B1B;
+    padding: 0.5em;
     text-align: center;
     margin-bottom: 0em;
 }
@@ -274,3 +274,10 @@ h3 {
     font-style: italic;
     font-size: 0.8em;
 }
+
+.milieu-body article:last-of-type img {
+width: 100%;
+margin: 0.5em;
+padding: 0em;
+}
+   
