@@ -22,7 +22,7 @@ a {
 img {
     max-width: 100%;
     padding: 1em;
-    
+
 }
 
 h1 {
@@ -116,13 +116,13 @@ footer {
 .draaien {
     animation: draai 3s ease;
     animation-iteration-count: infinite;
-    
+
 }
 
 @keyframes draai {
     0% {
         transform: rotate(0deg);
-        
+
     }
 
     60% {
@@ -248,7 +248,7 @@ h3 {
     font-size: 0.75em;
     text-align: end;
     margin-top: 0.25em;
-    
+
 }
 
 .milieu-body article:nth-child(2) p:nth-of-type(11) {
@@ -257,7 +257,7 @@ h3 {
     font-size: 0.75em;
     text-align: end;
     margin-top: 0.25em;
-   
+
 }
 
 .milieu-body p:first-of-type {
@@ -276,11 +276,11 @@ h3 {
     margin-top: 1.5em;
 }
 
-   
+
 .verkoop-body article:first-of-type p:first-of-type {
     padding-bottom: 1em;
     color: #154028;
-    
+
 }
 
 .verkoop-body p {
@@ -299,8 +299,6 @@ h3 {
 .homepage-body header img:last-of-type {
     padding: 0em;
     width: 100%
-    
-    
 }
 
 h3:last-of-type {
@@ -316,48 +314,45 @@ h2:first-of-type {
     margin: 0em;
     padding-bottom: 0em;
     padding-top: 0em;
-    }
+}
 
 .milieu-body main ul {
-        list-style-type: circle;
-        margin-left: 2em;
-    }
+    list-style-type: circle;
+    margin-left: 2em;
+}
 
-    .milieu-body footer ul {
-        list-style-type: circle;
-        margin-left: 2em;
-    }
+.milieu-body footer ul {
+    list-style-type: circle;
+    margin-left: 2em;
+}
 
-    .milieu-body main {
-        padding-bottom: 1em;
-    }
+.milieu-body main {
+    padding-bottom: 1em;
+}
 
-    .verkoop-body main {
-        padding-bottom: 1em;
-    }
+.verkoop-body main {
+    padding-bottom: 1em;
+}
 
-    .milieu-body main img:nth-of-type(3) {
-        margin-top: 2em;
-        margin-bottom: 1em;
-    }
+.milieu-body main img:nth-of-type(3) {
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
 
-    footer img:last-child {
-        width: 25em;
-        position: absolute;
-        padding-right: 2.5em;
-        padding-left: 2.5em;
+footer img:last-child {
+    width: 25em;
+    position: absolute;
+    padding-right: 2.5em;
+    padding-left: 2.5em;
 
-        margin-bottom: 0em;
-        margin-top: 2em;
-        background-color: #dfdad7;
-    }
+    margin-bottom: 0em;
+    margin-top: 2em;
+    background-color: #dfdad7;
+}
 
-    .verkoop-body footer img:first-of-type {
-        width: 9em;
-        display: flex;
-        float: right;
-        margin-right: 1em;
-    }
-    
-
- 
+.verkoop-body footer img:first-of-type {
+    width: 9em;
+    display: flex;
+    float: right;
+    margin-right: 1em;
+}
