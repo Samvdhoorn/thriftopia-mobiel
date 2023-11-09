@@ -356,3 +356,13 @@ footer img:last-child {
     float: right;
     margin-right: 1em;
 }
+
+.milieu-body h3:last-of-type {
+    color: #154028;
+    font-size: 1.25em;
+    margin-left: 1em;
+    margin-right: 1em;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1em;
+}
